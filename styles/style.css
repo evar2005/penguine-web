@@ -200,12 +200,14 @@ width: 80px;
 .logo{
   width: 200px;
 }
-.card-item ,
-.service-img img  ,
-.card-img  {
+.card-item,
+.service-img img,
+.card-img {
   width: 100%;
+  max-width: 100%;
+  height: auto; 
 }
-.service-img{
+.service-img {
   margin-top: 30px;
 }
 }
@@ -235,12 +237,14 @@ width: 80px;
 .logo{
   width: 200px;
 }
-.card-item ,
-.card-img ,
-.service-img img {
+.card-item,
+.service-img img,
+.card-img {
   width: 100%;
+  max-width: 100%;
+  height: auto; 
 }
-.service-img{
+.service-img {
   margin-top: 30px;
 }
 }
